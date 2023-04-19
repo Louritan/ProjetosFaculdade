@@ -1,2 +1,2 @@
 # ProjetosFaculdade
-Trabalhos da faculdade
+Trabalhos da faculdade desenvolvidos em Java
